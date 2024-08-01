@@ -3,7 +3,6 @@
 ## 基本信息
 - **姓名**: cqasen
 - **职业**: php开发工程师
-- **邮箱**: cqasen@qq.com
 - **地址**: 中国重庆市
 - **GitHub**: [github.com/cqasen](https://github.com/cqasen)
 
