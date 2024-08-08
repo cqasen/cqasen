@@ -6,9 +6,9 @@
 - **地址**: 中国重庆市
 - **GitHub**: [github.com/cqasen](https://github.com/cqasen)
 
-## 技能概述
+## 会一点技能
 - **前端**: Vue.js, HTML, CSS, JavaScript, Bootstrap
-- **后端**: PHP, Python (Flask, FastApi), Golang (Gin)
+- **后端**: PHP, 会一点Python (Flask, FastApi)和 Golang (Gin)
 - **数据库**: MySQL, MongoDB, Redis
 - **云与容器**: Docker
 - **框架与工具**: Nginx,  Elasticsearch, Git
